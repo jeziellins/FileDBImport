@@ -16,6 +16,7 @@ In this strategy we use BULK with blocks of 10,000 records, reducing the number 
 # Conclusion
 The BULK strategy proves to be much more efficient. By inserting blocks of 10,000 records, it can be up to 21 times faster.
 
+[![Watch the video](https://img.youtube.com/vi/RAU6lfvrLKs/default.jpg)](https://youtu.be/RAU6lfvrLKs)
 ```mermaid
 sequenceDiagram
     participant User
